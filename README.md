@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raza1631
 - 👀 I’m interested in Web application 
-- 🌱 I’m currently learning Laravel /Vue Js
+- 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
