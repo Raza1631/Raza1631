@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Raza1631
-- 👀 I’m interested in Web application 
+- 👋 Hi, I’m Raza Ahmed
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
